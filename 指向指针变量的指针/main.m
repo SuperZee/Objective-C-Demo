@@ -17,6 +17,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"指针pt %p",pt);
         NSLog(@"指针pt的内容 %p",*pt);
         ///     p   =    *pt
+        // J
         NSLog(@"指针p的内容 %d",*p);
     }
     return 0;
