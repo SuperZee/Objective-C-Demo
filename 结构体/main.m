@@ -33,7 +33,7 @@ int main(int argc, const char * argv[]) {
         pointer1.y = 20;
         NSLog(@"(x,y) = (%d,%d)",pointer1.x
               ,pointer1.y);
-        ////////////////////
+        /////////////////////
         //如果不用typedef每次都需要写struct
         //struct color color;
         NSLog(@"color = %d,%d,%d",color.Red,color.Blue,color.Blue);
