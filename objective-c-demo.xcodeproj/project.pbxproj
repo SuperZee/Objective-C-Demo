@@ -486,11 +486,12 @@
 			path = "数组";
 			sourceTree = "<group>";
 		};
-		040537DC1C44AD1F00E9AD07 /* 螺旋数组打印 */ = {
+		040537DC1C44AD1F00E9AD07 /* *螺旋数组打印 */ = {
 			isa = PBXGroup;
 			children = (
 				040537DD1C44AD1F00E9AD07 /* main.m */,
 			);
+			name = "*螺旋数组打印";
 			path = "螺旋数组打印";
 			sourceTree = "<group>";
 		};
@@ -555,7 +556,7 @@
 				04E013DE1C42184E00FF69B2 /* 逻辑运算符 */,
 				04E013E91C42202800FF69B2 /* if&else&else if的使用 */,
 				040537D11C44AB5600E9AD07 /* 数组 */,
-				040537DC1C44AD1F00E9AD07 /* 螺旋数组打印 */,
+				040537DC1C44AD1F00E9AD07 /* *螺旋数组打印 */,
 				040537E71C44BBE400E9AD07 /* 函数 */,
 				040537F51C44BFB000E9AD07 /* 递归函数 */,
 				040538001C44C3BD00E9AD07 /* 冒泡排序函数 */,
@@ -563,14 +564,14 @@
 				040538161C44CE4B00E9AD07 /* 宏定义 */,
 				040538211C44D1DA00E9AD07 /* 条件编译 */,
 				04E37CA21C47C52300D1CD8C /* 指针 */,
-				04E37CAD1C47CC5C00D1CD8C /* 快速排序 */,
+				04E37CAD1C47CC5C00D1CD8C /* *快速排序 */,
 				04231C011C48A6400012E14A /* 字符串 */,
 				04231C0C1C48D21F0012E14A /* 函数指针 */,
 				04231C171C48D5DA0012E14A /* 函数指针变量作为函数参数 */,
 				04231C221C48D9680012E14A /* 返回指针的函数 */,
 				0429FEBC1C48EED300FB9B00 /* 指向指针变量的指针 */,
 				04B55F1D1C4900C0004FEFE5 /* 结构体 */,
-				04B55F281C4906A3004FEFE5 /* 块 */,
+				04B55F281C4906A3004FEFE5 /* *块 */,
 				0417E64C1C3FD168001B6281 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -694,11 +695,12 @@
 			path = "结构体";
 			sourceTree = "<group>";
 		};
-		04B55F281C4906A3004FEFE5 /* 块 */ = {
+		04B55F281C4906A3004FEFE5 /* *块 */ = {
 			isa = PBXGroup;
 			children = (
 				04B55F291C4906A3004FEFE5 /* main.m */,
 			);
+			name = "*块";
 			path = "块";
 			sourceTree = "<group>";
 		};
@@ -726,11 +728,12 @@
 			path = "指针";
 			sourceTree = "<group>";
 		};
-		04E37CAD1C47CC5C00D1CD8C /* 快速排序 */ = {
+		04E37CAD1C47CC5C00D1CD8C /* *快速排序 */ = {
 			isa = PBXGroup;
 			children = (
 				04E37CAE1C47CC5C00D1CD8C /* main.m */,
 			);
+			name = "*快速排序";
 			path = "快速排序";
 			sourceTree = "<group>";
 		};
@@ -2070,6 +2073,7 @@
 				04B55F2C1C4906A3004FEFE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04E013E31C42184E00FF69B2 /* Build configuration list for PBXNativeTarget "逻辑运算符" */ = {
 			isa = XCConfigurationList;
